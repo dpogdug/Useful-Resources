@@ -12,8 +12,8 @@ https://github.com/shiftkey/desktop
 
 # Browser Add Ons
 
-<h1>Opera </h1>
+<h2>Opera </h2>
 
-&nbsp;&nbsp; Scrollbar Colour Changer
+&nbsp;&nbsp; <b>Scrollbar Colour Changer </b>
 I was having trouble finding the scrollbar on Opera Browser as the colours of the default Opera Scrollbar Thumb and Scrollbar Track were too similar, this easy to use browser add-on allows you to change the colours of each of them easily.
 https://addons.opera.com/en/extensions/details/custom-scrollbars/
