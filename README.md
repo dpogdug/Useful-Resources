@@ -9,3 +9,10 @@ https://tablericons.com/
 # Applications
   GitHub Desktop GUI for Linux Users
 https://github.com/shiftkey/desktop
+
+# Browser Add Ons
+&nbsp;&nbsp; 
+<b>Opera</b>
+
+I was having trouble finding the scrollbar on Opera Browser as the colours of the default Opera Scrollbar Thumb and Scrollbar Track were too similar, this easy to use browser add-on allows you to change the colours of each of them easily.
+https://addons.opera.com/en/extensions/details/custom-scrollbars/
