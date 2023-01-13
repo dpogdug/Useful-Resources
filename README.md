@@ -1,5 +1,5 @@
 # Useful-Resources
-Useful Coding Resources I come across
+Useful Coding (and General) Resources I come across
 
 # Icons / Graphics	
   Tabler Icons
