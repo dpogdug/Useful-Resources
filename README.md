@@ -7,12 +7,12 @@ https://tablericons.com/
 <p>1424 Open source free SVG icons. Highly customizable. No attribution required. For commercial use.</p>
 
 # Applications
-  GitHub Desktop GUI for Linux Users
+&nbsp;&nbsp;  <b>GitHub Desktop</b> GUI for Linux Users
 https://github.com/shiftkey/desktop
 
-  <b>Httpie</b> - for Windows - install in cmd using chocolatey
-    <p>choco install httpie</p>
-    <p>choco upgrade httpie</p>
+&nbsp;&nbsp;  <b>Httpie</b> - for Windows - install in cmd using chocolatey
+<code>choco install httpie</code>
+<code>choco upgrade httpie</code>
 
 # Browser Add Ons
 
