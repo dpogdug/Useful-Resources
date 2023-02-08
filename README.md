@@ -22,6 +22,12 @@ https://github.com/shiftkey/desktop
 <p>I was having trouble finding the scrollbar on Opera Browser as the colours of the default Opera Scrollbar Thumb and Scrollbar Track were too similar, this easy to use browser add-on allows you to change the colours of each of them easily.
 https://addons.opera.com/en/extensions/details/custom-scrollbars/</p>
 
+#W3C Markup Validation Service 
+https://validator.w3.org
+This validator checks the markup validity of Web documents in HTML, XHTML, SMIL, MathML, etc.
+
+<h2>Other W3C developer tools</h2>
+https://w3c.github.io/developers/tools/
 
 # CURL
 <p>https://curl.se/docs/</p>
